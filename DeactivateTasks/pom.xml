@@ -57,7 +57,7 @@
   	<dependency>
   		<groupId>com.uc4</groupId>
   		<artifactId>uc4</artifactId>
-  		<version>11.2</version>
+  		<version>12</version>
   	</dependency>
   </dependencies>
   
